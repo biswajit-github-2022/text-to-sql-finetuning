@@ -1,0 +1,13 @@
+streamlit
+pandas
+sqlalchemy
+transformers
+pymysql
+scikit-learn
+datasets
+transformers
+torch
+evaluate
+pandas
+numpy
+
