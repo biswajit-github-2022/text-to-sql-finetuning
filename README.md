@@ -1,6 +1,6 @@
 # Project: T5 Model Fine-Tuning and Application
 
-This project demonstrates the fine-tuning of the T5-large model from Hugging Face for text-to-text tasks, integration with MySQL, and schema generation. The repository is structured to include a Streamlit application, database testing, and fine-tuning notebooks.
+This project demonstrates the fine-tuning of the T5-small model from Hugging Face for text-to-text tasks, integration with MySQL, and schema generation. The repository is structured to include a Streamlit application, database testing, and fine-tuning notebooks.
 
 ---
 
@@ -39,5 +39,6 @@ pymysql
 
 ## Note: 
 
-We have used the weights we got by doing the finetuning in **`app4.py`**, and used pretrained model in **`app3.py`**
+We have used the weights we got by doing the finetuning in **`app_version4.py`**, and used pretrained model in **`app_version3.py`**
 You also have to do the configeration for Mysql Data base for the streamlit app to work properly.
+Keep the weights in a **`weights`** folder in the root folder of the project.
