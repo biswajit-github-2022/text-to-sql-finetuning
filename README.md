@@ -33,3 +33,11 @@ datasets
 numpy
 scikit-learn
 pymysql
+
+
+---
+
+## Note: 
+
+We have used the weights we got by doing the finetuning in **`app4.py`**, and used pretrained model in **`app3.py`**
+You also have to do the configeration for Mysql Data base for the streamlit app to work properly.
