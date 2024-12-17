@@ -42,3 +42,4 @@ pymysql
 We have used the weights we got by doing the finetuning in **`app_version4.py`**, and used pretrained model in **`app_version3.py`**
 You also have to do the configeration for Mysql Data base for the streamlit app to work properly.
 Keep the weights in a **`weights`** folder in the root folder of the project.
+Download the weights from [https://drive.google.com/drive/folders/1PCjhIgByOx4zt1ieqD0qOsZefOvUC2Wv?usp=drive_link](https://drive.google.com/drive/folders/1PCjhIgByOx4zt1ieqD0qOsZefOvUC2Wv?usp=drive_link)
