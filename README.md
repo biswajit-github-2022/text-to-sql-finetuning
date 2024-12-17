@@ -8,7 +8,7 @@ This project demonstrates the fine-tuning of the T5-small model from Hugging Fac
 
 - **`src/`**  
   - **`weights`**: Download from givem link below. 
-  Contains the Streamlit application for user interaction.
+  - **`app_version4.py`**: Contains the Streamlit application for user interaction.
 
 - **`testing/`**  
   - **`connect.py`**: Tests the connection to the MySQL database.  
